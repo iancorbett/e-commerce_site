@@ -1,4 +1,4 @@
-# e-commerce_site
+# E-Commerce_Site
 
 
 Intro: In this project, I was given the starter code to create an e-commerce application. I had to complete the code to make the project fully functional. Firstly, I installed all of the necessary node packages to finish the project. Then I created the four different models, Category, Product, Tag, and ProductTag. I then created all of the necessary associations between the four models, as well as all of the API routes, in order to perform the CRUD operations. After entering the data into the database, insomnia can be used to test the application.
