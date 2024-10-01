@@ -9,7 +9,7 @@ User instructions: Because this is not a deployed project users will have to run
 
 How to contribute: In order to contribute to this project, you will need to obtain permission from the owner of the repository!
 
-Link to the Walkthrough Video:
+Link to the Walkthrough Video: https://www.youtube.com/watch?v=SL_CHyPNfRs
 
 Sources: for this project I received help from a tutor named Joem. I had the vast majority of the code written correctly, but there were a few small issues that I was having trouble resolving, and he was able to help me fix them and get the application running correctly. For example, I did not realize that I had to rename my ENV file. In the starter code it said ".env.example", but this was supposed to be changed to .env, but I had not changed it. Therefore, it was returning an error. Additionally, he helped me fix two errors (one error made twice), in the index.JS file in the models folder. I was not using the through keyword 19 and 25 instead I passed in the model, as opposed to using the keyword “through”. Additionally, he helped me fix two small errors. These errors occurred because I forgot to include “req.params.id” on line 23 of category-routes.js, and I forgot “req.body” on line 47 of tag-routes.js. Additionally, he was very helpful in explaining how to use the application on insomnia. Otherwise no other sources were used besides obviously the source code that I was given to start the project.
 
